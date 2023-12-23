@@ -1,0 +1,13 @@
+{
+  "name": "food_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compose:dev": "docker compose -f compose-air.yml up",
+    "compose": "docker compose up"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
